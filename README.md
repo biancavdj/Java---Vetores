@@ -1,0 +1,1 @@
+The Java program prompts the user to input names and values for up to 10 financial accounts, validating and processing the data. The program calculates the total amount, the average of the values, identifies the highest and lowest values entered, and counts how many accounts have values above 250 and how many invalid entries were made.
